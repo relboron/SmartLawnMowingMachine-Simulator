@@ -22,12 +22,12 @@ It uses:
 - Run the project SLMM.WebApi profile and launch the project.
 
 - You can reach it at http://localhost:5000 using tools like SoapUI or Postman:
-
-   Get Position = http://localhost:5000/get,
-   Move Forward = http://localhost:5000/move/moveonestepforward,
-   Turn Clockwise = http://localhost:5000/moveclockwise,
-   Turn Anticlockwise = http://localhost:5000/move/moveanticlockwise
-
+```
+ Get Position = http://localhost:5000/get
+ Move Forward = http://localhost:5000/move/moveonestepforward
+ Turn Clockwise = http://localhost:5000/moveclockwise
+ Turn Anticlockwise = http://localhost:5000/move/moveanticlockwise
+```
 
 ## SLMM.Api.Test
 
