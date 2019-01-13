@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SLMM.WebApi": {
+      "commandName": "Project",
+      "launchUrl": "api/slmm",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5000"
+    }
+  }
+}
